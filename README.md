@@ -1,7 +1,7 @@
 # IoT Security: Safeguarding the Connected World
 
 ## Overview
-This repository contains scripts for an IoT Security Testing Tool. The tool is designed to assist in network scanning, targeting specific networks, and detecting IoT protocols.
+This project involves the development of a Python-based penetration testing tool for IoT devices, focusing on protocols such as CoAP, UPnP/SSDP, and MQTT. The tool aims to identify vulnerabilities and weaknesses in these protocols, enabling security professionals to effectively test the security of IoT devices. By detecting and addressing potential vulnerabilities, the tool contributes to enhancing the overall security and resilience of IoT ecosystems.
 
 ## Features
 - **Network Scanning:** Switch interface to monitor mode and perform network scans using tools like airodump-ng.
