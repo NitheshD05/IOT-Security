@@ -26,4 +26,3 @@ This repository contains scripts for an IoT Security Testing Tool. The tool is d
    ```
    python3 Main.py
 
-
