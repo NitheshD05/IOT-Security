@@ -22,4 +22,8 @@ This repository contains scripts for an IoT Security Testing Tool. The tool is d
    pip install -r requirements.txt
    python3 Main.py
 
+2. Invoke the main.py
+   ```
+   python3 Main.py
+
 
