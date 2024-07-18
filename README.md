@@ -24,7 +24,7 @@ This repository contains scripts for an IoT Security Testing Tool. The tool is d
 
 2. Invoke the main.py
    ```
-   python3 Main.py
+   python3 main.py
 
 ### POC
 For testing puprose, I have simulated the IOT device with all three type of protocols
