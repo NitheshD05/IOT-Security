@@ -20,3 +20,6 @@ This repository contains scripts for an IoT Security Testing Tool. The tool is d
    git clone https://github.com/NitheshD05/IOT-Security.git
    cd IoT-Security
    pip install -r requirements.txt
+   python3 Main.py
+```
+
