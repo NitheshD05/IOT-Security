@@ -1,4 +1,4 @@
-# IoT Security Testing Tool
+# IoT Security: Safeguarding the Connected World
 
 ## Overview
 This repository contains scripts for an IoT Security Testing Tool. The tool is designed to assist in network scanning, targeting specific networks, and detecting IoT protocols.
