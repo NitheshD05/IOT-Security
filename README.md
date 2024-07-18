@@ -26,8 +26,7 @@ This project involves the development of a Python-based penetration testing tool
    ```
    python3 main.py
 
-### POC
-### For testing puprose, I have simulated the IOT device with all three type of protocols
+## POC: For testing puprose, I have simulated the IOT device with all three type of protocols
 ![MainPy (1)](https://github.com/user-attachments/assets/0de83d0f-f516-46be-a4c6-1388e71c067d)
 ![Network_TargetPy (1)](https://github.com/user-attachments/assets/8b0d5d84-2b88-4918-813a-60b8fd5753c3)
 ![AttackPy (1)](https://github.com/user-attachments/assets/6f7b4759-fe1d-441d-8708-b163b0d6efc8)
